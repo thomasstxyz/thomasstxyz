@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate DevOps Engineer from Austria</h3>
 
-- 🔭 I’m currently working on [thomasstxyz/gitops-deploy](https://github.com/thomasstxyz/fhb-mcce-inenp-pt-gitops-deploy)
+- 🔭 I’m currently working on [thomasstxyz/fppss-deploy](https://github.com/thomasstxyz/fppss-deploy)
 
 - ❤️ Cloud Native Software
 
