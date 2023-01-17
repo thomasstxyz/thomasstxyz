@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate DevOps Engineer from Austria</h3>
 
-- 🔭 I’m currently working on [thomasstxyz/fppss-deploy](https://github.com/thomasstxyz/fppss-deploy)
+- 🔭 I’m currently working on [my master thesis](https://github.com/thomasstxyz/fhb-mcce-masterthesis)
 
 - ❤️ Cloud Native Software
 
 - 👨‍💻 Check out my [cheatsheet](https://github.com/thomasstxyz/cheatsheet)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **GitOps** and **Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
