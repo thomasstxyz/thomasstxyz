@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my [cheatsheet](https://github.com/thomasstxyz/cheatsheet)
 
-- 🌱 I’m currently learning **GitOps** and **Kubernetes**
+- 🌱 I’m currently learning **GitOps**, **Kubernetes Controllers**, **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
