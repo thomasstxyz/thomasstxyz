@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate DevOps Engineer from Austria</h3>
 
-- 🔭 I’m currently working on [my master thesis](https://github.com/thomasstxyz/fhb-mcce-masterthesis)
+- 🔭 I’m currently working on [my master thesis](https://github.com/thomasstxyz/fhb-mcce-masterthesis) and [GitOps Promotions Operator](https://github.com/thomasstxyz/gitops-promotions-operator)
 
 - ❤️ Cloud Native Software
 
